@@ -1,0 +1,4 @@
+$alert-primary-color-icon: red;
+html{
+    background-image: url(./assets/calendar.svg?fill=#{$alert-primary-color-icon});
+}
